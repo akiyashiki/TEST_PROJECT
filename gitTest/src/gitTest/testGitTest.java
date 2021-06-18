@@ -7,6 +7,7 @@ public class testGitTest {
 		System.out.println("Gtest!");
 		System.out.println("Commit!");
 		System.out.println("Commit2!");
+		System.out.println("Commit3!");
 	}
 
 }
